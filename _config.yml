@@ -1,0 +1,14 @@
+title: RVA Tracks
+org: Re-Volt America
+email: jose@bgm.cl
+url: "https://tracks.rva.lat"
+description: >-
+  Tracks repository for Re-Volt America.
+encoding: UTF-8
+markdown: kramdown
+
+exclude:
+  - CNAME
+  - favicon.ico
+  - LICENCE.md
+  - README.md
