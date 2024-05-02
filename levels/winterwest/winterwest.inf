@@ -15,4 +15,4 @@ TEXTUREPROPS 2 1 1 0
 TEXTUREPROPS 10 1 0 1
 SWEEPCAM 1
 REDBOOK 10 10
-MUSIC 'levels\winterwest\custom\music.ogg'
+MUSIC 'music/io/once_upon.ogg'
