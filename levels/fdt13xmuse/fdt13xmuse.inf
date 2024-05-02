@@ -20,5 +20,4 @@ WORLDRGBPER		100			;RGB percent of original world gouraud
 MODELRGBPER     	32              	;RGB percent of original model gouraud
 MIRRORS			1 0 0.3 256		;Type - mix - intensity start - distance
 REDBOOK 		1 3
-MUSIC		    'music\io\trance\zeta'
 DIFFICULTY		4

@@ -1,8 +1,9 @@
 Thanks for downloading Subway 2!
 
-I hope you like this track.
-It was lot of work, and keeping interest on a track for so long was quite hard.
-Thanks everyone for the feedback.
+There's still room for improvement (especially AI and cameras) but I hope you like the track!
+It was lot of work, and keeping interest on a track for so long was quite hard, so this might be my
+last Re-Volt track.
+Thanks everyone for the feedback on the first subway themed track.
 
 Once again, if you're willing to improve the track in any way you are more than welcome to contact
 me by discord / ReVolt World :)
@@ -10,20 +11,12 @@ me by discord / ReVolt World :)
 Music : wire and Flashing Lights EP by Professor Kliq (https://www.professorkliq.com) 
 Montazac ad by @AlexisVeille
 
-Thanks Tubers for the train model, and Esteban for improving the track not one, but two times.
+Thanks Tubers for the train model,
 And thank you and the whole RV community for keeping the game alive.
 
 So long,
 Capitaine SZM
 
-==========================
-Update v1.3.1 - by EstebanMz
-==========================
-- Visiboxes added to help to improve the performance on slower machines.
-- Fixed collision with a couple of doors (Reported by rodik).
-- Fixed a collision gap between the roof and the walls on the last exit of the roundabout.
-- Fixed Red X by taking the stairs instead of the ramp that leads before the last subway station (normal mode).
-- Adjustments to Track direction Triggers 0 & 1.
 
 ==========================
 Update v1.3 - by EstebanMz
