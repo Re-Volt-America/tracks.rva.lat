@@ -1,0 +1,23 @@
+;--------------------------
+;Revolt .INF file structure
+;--------------------------
+
+NAME		'Office 1 (1.0)'	;The name of the level as seen in-game
+STARTPOS	-1250 1300 12500 ;Start position of the car
+STARTPOSREV	-1500 1300 9500  ;Start position of the car
+STARTROT	0.5		;Start rotation of the car (0 - 1)
+STARTROTREV	0		;Start rotation of the car (0 - 1)
+FARCLIP		30000		;Far clipping distance (draw distance)
+FOGSTART	29000		;Fog start (slightly less than FARCLIP)
+FOGCOLOR	80 144 192 		;Fog and background color
+VERTFOGSTART	3000		;Vertical fog start (as in rooftops)
+VERTFOGEND	6000		;Vertical fog end (as in rooftops)
+WORLDRGBPER     100             ;RGB percent of original world gouraud
+MODELRGBPER	100		;RGB percent of original model gouraud
+INSTANCERGBPER	100		;RGB percent of original instance gouraud
+MIRRORS		0 0.95 0 256	;Type - mix - intensity start - distance
+REDBOOK		4 9
+DIFFICULTY	2
+CHALLENGE	0 34 000
+CHALLENGEREV	0 34 000
+SWEEPCAM	TRUE
